@@ -1,1 +1,40 @@
+En Hirikilabs niños niñas asisten a una sesión de JoLabs. En esta ocasión lxs asistentes se dividen en dos grupos, lxs mayores y lxs pequeñxs. Menores de 8 años y mayores de 8 años (no recuerdo bien).
+
+Me autoasigno el grupo de lxs pequeñxs pq hace tiempo que no dinamizo nada, ni programo,... y no estoy muy agil.
+
+Para lxs pequeños pense hacer un sencillo proyecto de vumetro (semaforo de sonido) con Scratch y Arduino, también la idea era diseñar algo y utilizarlo para encapsular el proyecto.
+
+Mientras trabajamos las tripas todo fue muy bien, todxs lxs niñxs tenían 3 leds rojos 3 leds amarillos y 3 leds verdes. Consseguimos montar el circuito y programar el vumetro.
+
+Pero veia a mi grupo bastante desmotivado con respecto al grupo de Manex. Les pregunté que pasaba y me dijeron que los mayores estaban haciendo cohes robot (siguelineas) mientras ellos estaban con un semaforo.
+
+Entoces les propuese diseñar un robot humanoide a partir de dos cubos (cabeza y cuerpo) en el cuerpo hariamos una ranura para sacar los leds de manera que tendriamos un vumetro con forma humanoide. Les entusiasmo.
+
+Hicimos varios diseños hasta que el cuerpo se ajusto bien. Era un diseño sencillo.
+
+Montaron el circuito, encolaron la caja, metieron todo dentro lo enchufaron a Scratch ejecutaban y funconaba. Los leds emepzando por el amarillo, pasando por el verde terminando por el rojo mostraban el volumen que habia.
+
+Para terminar les propuse darle un poco de alegra al robot, con ojos, ropas.... y saque materiales.
+
+Una niña le puso un lazo en la cabeza al robot. Y ese gesto fue para el niño que tenía al lado como un sacrilegio.
+
+¿Cómo puedes ponerle un lazo al robot? ¿no sabes que los robots chicas son tontos?
+
+///////
+
+Esquema de la mirada (TE):
+
+Tema: Tecnología y Conducta
+Subtema: Robots sexuados 
+
+Hecho: Dos niñxs que hacen un robot identico, discuten sobre la inteligencia de uno de ellxs es "chica"
+
+Opresor-Opresor: sociedad?
+Opresor-Oprimido: niño
+Oprimida-Oprimida: niña
+Tipo de injusticia: pensar que las chicas son menos inteligentes
+
+
+Referencias:
+
 
