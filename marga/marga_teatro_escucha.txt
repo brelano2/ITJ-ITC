@@ -1,11 +1,27 @@
 Carlos y Mónica llevaban mucho tiempo sin pasar un fin de semana juntos así que, en el primer fin de semanana que los dos tenían libre, decidieron hacer una escapada. No tenían mucho tiempo para prepararla ni mucho dinero para gastar. Decidieron ir a un sitio donde a no habían estado nunca y apalabraron un airb&b.
 El viernes por la tarde, después de trabajo, se metieron en el coche. Querían llegar al destino lo antes posible, también para no hacer esperar a su anfitriona en el arib&b.
-Carlos conducía. Le pidió a Mónica que le ayudara en la planificación de la ruta, y *ambos decidieron usar el GPS del teléfono inteligente*.
+Carlos conducía. Le pidió a Mónica que le ayudara en la planificación de la ruta, y ambos decidieron usar el GPS del teléfono inteligente.
 El GPS es confortable. Tú siempre eres la bolita del centro y todo gira a tu alrededor. Hace que parezcas importante, casi como si fueras el centro del mundo que se mueve dependiendo de ti. Usarlo reduce el esfuerzo de viajar. Es como viajar con los ojos vendados, confiando en los satélites. Es como externalizar el esfuerzo de saber dónde estás, de prestar atención a la física del camino. Ya no tienes la responsabilidad de perderte y, como no te pierdes, ya no tienes que preguntar a nadie por dónde se va, y así nadie te mete en líos. Y, además, se acaban las discusiones sobre si tú decidiste tirar por aquí y era mejor haber tirado por allá. Lo dice el GPS, y punto.
 El GPS se portó muy bien. No los tiró por un acantilado. No los metió en el cauce de un río. No los empotró contra un muro. El teléfono inteligente también se portó muy bien. Nunca perdió la conexión con los satélites y no se quedó sin batería.
 Después de la estancia, para el viaje de regreso, decidieron de nuevo tirar de GPS. ¡Es tan cómodo!
 El domingo por la noche llegaron a casa y se pusieron a ver una serie de esas de ciencia ficción, con androides fabricados por corporaciones malignas, de esos que tienen los recuerdos implantados.
 Entonces Mónica se dió cuenta de una cosa: no tenía recuerdos del trayecto del viaje. No tenía ninguna imagen de lo que había visto por la ventanilla. Claro, no había visto nada porque tenía que ir mirando la pantalla del teléfono inteligente. No recordaba si había ido para el norte o para el sur, para el este o para el oeste. No podía rehacer mentalmente la ruta. Si tuviera que volver a ir, no sabría por dónde. Se dió cuenta de que durante el viaje había es como si se hubiera apagado su inteligencia y como si se hubiera desconectado de su capacidad de percepción del entorno, de su comprensión del mundo físico. Recordaba la habitación del airb&b y los restaurantes donde habían comido, pero no recordaba ningún hito del camino. Rememoró los mapas en papel, con sus puntos cardinales, su cantidad de información, su visión de conjunto... Rememoró lo difícil que es, a veces, saber dónde estás, y la angustia de sentirte perdida. Pensó si tal vez una superinteligencia artifial la habría seducido para que ella decidiera desconectarse de su inteligencia natural y, por un momento, se sintió como una androide de una serie de ciencia ficción. Alguien le había robado los recuerdos.
 
+Esquema de la mirada (TE):
 
+Tema: Tecnología y Conducta
+Subtema: Delegación de la inteligencia humana en la inteligencia artificial 
+
+Hecho: 
+Carlos y Mónica llevaban mucho tiempo sin pasar un fin de semana juntos así que, en el primer fin de semanana que los dos tenían libre, decidieron hacer una escapada. No tenían mucho tiempo para prepararla ni mucho dinero para gastar. Decidieron ir a un sitio donde a no habían estado nunca y apalabraron un airb&b.
+El viernes por la tarde, después de trabajo, se metieron en el coche. Querían llegar al destino lo antes posible, también para no hacer esperar a su anfitriona en el arib&b.
+Carlos conducía. Le pidió a Mónica que le ayudara en la planificación de la ruta, y ambos decidieron usar el GPS del teléfono inteligente.
+
+Opresor-Opresor: No lo tengo claro. En principio sería la empresa del sistema GPS pero en realidad el GPS es muy útil
+Opresor-Oprimido: Carlos 
+Oprimida-Oprimida: Mónica
+Tipo de injusticia: desconectar del entorno
+
+
+Referencias:
 
