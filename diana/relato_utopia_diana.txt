@@ -1,24 +1,38 @@
 
-En el año 2030 la sociedad de la información es una realidad y mucha de la población humana en el planeta entiende sus lógicas. Monitorizar, extraer, explotar, tratar datos es una práctica que la sociedad considera útil y necesaria.
+En el año 2030 la sociedad de la información es una realidad y mucha de la población humana en el planeta entiende sus lógicas.
+Monitorizar, extraer, explotar, tratar datos es una práctica que la sociedad considera útil y necesaria.
 
-Todo lo que es susceptible de ser objetivable se objetiviza. Sin embargo aún sabiendo más seguimos viviendo en una sociedad violenta.
+Todo lo que es susceptible de ser objetivable se objetiviza. Sin embargo aún sabiendo más seguimos viviendo en una sociedad 
+violenta.
 
 Existen dos datos a finales del siglo XXI que se tomanorn como referencia a la hora de entender la violencia humana:
 
---> 288.756 delitos al año en el estado Español. Los hombres eran las personas que más delitos cometían 87% aproximadamente del total de todos los delitos (fuente: http://www.poderjudicial.es/cgpj/es/Temas/Estadistica-Judicial/Estadistica-por-temas/Datos-penales--civiles-y-laborales/Delitos-y-condenas/Condenados--explotacion-estadistica-del-Registro-Central-de-Penados-/)
---> Los hombres seguian ostentando la mayoría de los cargos directivos: 72 % aproximadamente ( fuente estado español: http://www.ine.es/ss/Satellite?L=es_ES&c=INESeccion_C&cid=1259925595694&p=1254735110672&pagename=ProductosYServicios%2FPYSLayout)
+--> 288.756 delitos al año en el estado Español. Los hombres eran las personas que más delitos cometían 87% aproximadamente del
+total de todos los delitos (fuente: http://www.poderjudicial.es/cgpj/es/Temas/Estadistica-Judicial/Estadistica-por-temas/Datos-
+penales--civiles-y-laborales/Delitos-y-condenas/Condenados--explotacion-estadistica-del-Registro-Central-de-Penados-/)
 
-Las personas expertas en inferencia estadística entendieron que existía una relación clara entre el poder y la violencia. Esta idea caló en la sociedad de la época.
+--> Los hombres seguian ostentando la mayoría de los cargos directivos: 72 % aproximadamente ( fuente estado español:
+http://www.ine.es/ss/Satellite?L=es_ES&c=INESeccion_C&cid=1259925595694&p=1254735110672&pagename=ProductosYServicios%2FPYSLayout)
 
-Gracias al movimiento feminista y a las políticas de igualdad más mujeres entraron en cargos de la esfera pública, la cultura, la ciencia y la tecnología y poco a poco se fue notando su presencia, se fueron erosionando formas de entender la “realidad”.
+Las personas expertas en inferencia estadística entendieron que existía una relación clara entre el poder y la violencia. Esta
+idea caló en la sociedad de la época.
 
-También fue cambiando la percepción de que la mujer no estaba interesada o que no era capaz, cambio por la idea de que no veía las cosas de la misma manera. 
+Gracias al movimiento feminista y a las políticas de igualdad más mujeres entraron en cargos de la esfera pública, la cultura,
+la ciencia y la tecnología y poco a poco se fue notando su presencia, se fueron erosionando formas de entender la “realidad”.
 
-Sin embargo había dudas en torno a lo que las mujeres podrían cambiar si ostentaran el poder. ¿Son las lógicas del Poder-Violencia cosa de hombres o cosa de la condición humana?.
 
-Se pensó que si el poder estaba directamente vinculado a la violencia las mujeres harían lo mismo que los hombres en el poder,  aplicar violencia. 
+También fue cambiando la percepción de que la mujer no estaba interesada o que no era capaz, cambio por la idea de que no veía
+las cosas de la misma manera. 
 
-Sin embargo esto era especulación,  y vivíamos en la era de los datos. Había que contrastar la información, por esa razón la sociedad se puso de acuerdo en poner el futuro de la humanidad en manos íntegramente de mujeres durante los siguientes 200 años. 
+Sin embargo había dudas en torno a lo que las mujeres podrían cambiar si ostentaran el poder. ¿Son las lógicas del Poder-
+Violencia cosa de hombres o cosa de la condición humana?.
+
+Se pensó que si el poder estaba directamente vinculado a la violencia las mujeres harían lo mismo que los hombres en el poder, 
+aplicar violencia. 
+
+Sin embargo esto era especulación,  y vivíamos en la era de los datos. Había que contrastar la información, por esa razón la 
+sociedad se puso de acuerdo en poner el futuro de la humanidad en manos íntegramente de mujeres durante los siguientes 200 años.
+
 
 Las mujeres serían las presidentas de los países
 Las mujeres serían las personas que decidirían las líneas de invesigación
@@ -29,18 +43,26 @@ Las mujeres serían las personas que decidirían las políticas sociales
 
 Pasaron 200 años
 
---> Los delitos se habían reducido drasticamente a 50.000 al año, siendo el 50% de estos cometidos por los hombres (datos ficticios)
+--> Los delitos se habían reducido drasticamente a 50.000 al año, siendo el 50% de estos cometidos por los hombres (datos 
+ficticios)
 --> Las mujeres ostentaban el 72 % del poder (datos ficticios)
 
-Traspasar poder a las mujeres fue clave para una sociedad más justa, en la que los delitos habían descendido un 82% y los que se hacían no estaban tan vinculados a la noción de poder.
+Traspasar poder a las mujeres fue clave para una sociedad más justa, en la que los delitos habían descendido un 82% y los que se
+hacían no estaban tan vinculados a la noción de poder.
 
-Fueron claves las decisiones en materia de mayor cohesión social, educación, atención a los procesos migratorios, género y conducta, desarrollo territorial, educación, cuidado del planeta, politica militar,...
+Fueron claves las decisiones en materia de mayor cohesión social, educación, atención a los procesos migratorios, género y 
+conducta, desarrollo territorial, educación, cuidado del planeta, politica militar,...
 
-Las medidas en este sentido promocionaron y premiaron el desarrollo de tecnologías que favorecieron la transición. Y se desarrollaron tecnologías con una visión más preocupada en el desarrollo humano y el impacto en el planeta que en la cuenta de resultados.
+Las medidas en este sentido promocionaron y premiaron el desarrollo de tecnologías que favorecieron la transición. Y se 
+desarrollaron tecnologías con una visión más preocupada en el desarrollo humano y el impacto en el planeta que en la cuenta de 
+resultados.
 
-Ahora estamos trabajando en la idea de competitividad tan arraigada en la especie humana desde que Darwin hablara de la selección natural.
+Ahora estamos trabajando en la idea de competitividad tan arraigada en la especie humana desde que Darwin hablara de la 
+selección natural.
 
-Estamos pensando en eliminar cualquier actividad vinculada a la idea de competición, incluso las olimpiadas. Este tipo de medidas están causando cierta erosión en la sociedad a pesar de que es una sociedad más justa.
+Estamos pensando en eliminar cualquier actividad vinculada a la idea de competición, incluso las olimpiadas. Este tipo de 
+medidas están causando cierta erosión en la sociedad a pesar de que es una sociedad más justa.
 
-Los recursos son limitados, somos muchas personas en el mundo y la mitad de la población ansía volver al poder… ese ansia tal vez nos muestre que no estamos preparadxs, o que no tenemos remedio.
+Los recursos son limitados, somos muchas personas en el mundo y la mitad de la población ansía volver al poder… ese ansia tal 
+vez nos muestre que no estamos preparadxs, o que no tenemos remedio.
 
