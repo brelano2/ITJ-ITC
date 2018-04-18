@@ -1,1 +1,120 @@
-a
+GIT HUB // Conductas discriminatorias en el ámbito del software libre.
+______________________________________________________________________
+
+Según el estudio Diferencias de Género y Discriminación en el software libre de Terrell et al. de 2017 las contribuciones de las mujeres suelen ser más aceptadas que las de los hombres en GitHub simpre y cuando estas no sean identificadas como mujeres.
+
+CONDUCTA //
+__________
+
+Conducta observada: A la comunidad le cuesta reconocer una aportación como valiosa cuando proviene de una mujer.
+
+Conducta observada: Una contribución valiosa tiene más posibilidades de ser reconocida por la comunidad como tal cuando la aportación se percibe realizada por un hombre.
+
+Conducta observada: Las mujeres que no explicitan su género  tienen más contribuciones valoradas positivamente  que las mujeres que lo explicitan.
+
+Conducta observada: Hay mujeres que no explicitan su género.
+
+ANÁLISIS //
+____________
+
+Cuadrante //
+
+----> Pienso qué publicar en GitHub responde por una parte a la creencia de que colectivamente se puede desarrollar mejor. Sin embargo también pienso que publicar en GitHub se vincula con la idea de estatus en una determinada comunidad. Esta comunidad de la que quieren sentirse parte las personas usuarias de GitHub está es percibida como una comunidad hombres con valores vinculados a la ética hacker que programan. Por esa razón pienso qu estaría en el cuadrante inferior derecho. Es un conocimiento valorado, pero no da poder en el sistema capitalista. Da poder en la comunidad de hombres que comparten ética hacker. (estoy aún con dudas en esto, nose muy bien como expresarlo). Me parece interesante que las mujeres estén intentando convencer a la comunidad haciendose pasar por hombres, hasta el punto de que todo el mundo se cree que lo hacen hombres y la rueda se retroalimenta en un loop infinito.
+
+Preguntas //
+
+qué cosas están prohibidas o "mal vistas"? // Ser mujer
+
+qué limitaciones mentales tenemos a la hora de construir el espacio/relaciones? // A las mujeres no les interesa la programar, por eso programan mal.
+
+qué tiempo y espacio ocupa la tecnología en las dinámicas? Es un entorno intrinsicamente tecnológico, en el que no debería existir más variable a la hora de reconocer un trabajo que su efectividad.
+
+qué pasa si la persona de referencia (técnico) es mujer? // Sus aportaciones no son tan valoradas
+
+abordaje de los talleres/espacios de formación/capacitación
+
+narrativas y género en las tecnologías : cómo se convoca, quién facilita
+
+Qué creencias o pensamientos crees que están detrás de lo que estás viendo? construcciones historicas vinculadas a la identidad de genero.
+
+Hay procesos de anulación del cuerpo (presencia, expresión, acción)? Si, autoanulación
+
+Hay procesos de manipulación de la mente? no
+
+Existen relaciones de poder en torno a la masculinidad? Si
+
+Hay violencia estructural o ambiental? Existe un código de conducta: https://blog.github.com/2016-10-19-introducing-github-community-guidelines/
+
+... ¿Quien promueve las ideas?¿quien se queda con el merito / proyecto? ¿por qué? ¿quien apoya? 
+... ¿Quien hace que? ¿por qué? ¿roles?Quién acude a la "cosa"?
+... Existe algún conflicto que catilice o inhiba determinadas conductas? Es motor de cambio en estos espacios? ... O no hay ningún conflicto?
+... El error ¿está permitido? quién puede intentarlo? quién puede fallar? 
+... ¿Hay reflexión, ya sea sistemática o esporádica? ¿Hace falta una auto-evaluación de los espacios? ¿Se perciben necesarias?
+... la apropiación vs la propiedad por un lado se empoderan usuarixs/trabajadorxs pero se percibe como "su choco"? Cuándo pasa esto?
+... que espectitivas tiene el espacio? explícitas
+... que espectattivas tiene la persona usuaria? Hay quien va como Pedro por su casa y eso le abre puertas?
+... Cómo lo conocen?
+... En las actividades educativas: es mejor cuanta más tecnología, kits más acabados? Es decir, la tecnología como producto/objeto en lugar de medio, juguete más que juego.
+
+TEORIZACION //
+
+En su libro 'Unspeakable things', la periodista británica  Laurie Penny explica que, desde los comienzos de internet, la retórica imperante ha defendido que la Red derribaría las barreras de género: ser hombre o mujer no tendría importancia 'online'. Sin embargo, la activista señala la trampa: para ser tratada como una igual hay que ocultar que eres mujer, en una especie de "armario del género", un término acuñado por Clay Shirky, autor de 'Here Comes Everybody' y teórico de internet. 
+
+Existe una realidad y es que las mujeres históricamente no hemos tenido acceso a la ciencia y a la tecnología porque no nos lo han permitido. Poco a poco hemos ido erosionando esa barrera construida (interesante referencia Silvia Federicci Caliban y la Bruja). Sin embargo en el subconsciente humano sigue la idea de que por algún motivo a las mujeres no nos interesan la ciencia y la tecnología, en algún momento alguien determinó que la curiosidad, la investigación y el desarrollo es inherente a lo masculino.
+Pienso que el problema viene de la vinculación que existe actualmente con la idea de ciencia y tecnología con ciertas actitudes y  conductas asociadas a esta.
+
+Existe un concepto muy interesante llamado Tecnociencia Feminista acuñado pr xxx, es un campo que emerge de décadas de crítica feminista de cómo se construye la identidad de género en los campos de la ciencia y la tecnología. 
+
+Los estudios de tecnociencia feminista estudian cómo la política de género y otros marcadores de identidad están interconectados con los procesos resultantes de cambio técnico y las relaciones de poder del mundo globalizado y material. 
+
+La tecnociencia feminista se centra menos en las relaciones intrapersonales entre hombres y mujeres, y más en cuestiones más amplias relacionadas con la producción de conocimiento y cómo los cuerpos se manifiestan y se reconocen en las sociedades [4]
+
+Los estudios de tecnociencia feminista se inspiran en los enfoques de construcción social del género, el sexo, las interseccionalidades, la ciencia, la tecnología y la sociedad. 
+
+HISTORIA DE LA TECNOLOGÍA //
+Según Judy Wajcman, el concepto de tecnología ha estado históricamente ligado a las mujeres indígenas. Los roles de los recolectores, o cuidadores de la economía doméstica asumidos por estas mujeres, llevan a Wajcman a concluir que habrían creado herramientas como la hoz y el mazo, convirtiéndolas en las primeras tecnólogas. [6]: 15Durante el siglo XVIII, la ingeniería industrial comenzó a constituir la definición moderna de tecnología. Esto transformó el significado de incluir tecnología de artes útiles, como costura, metalistería, tejido y minería, a ciencia estrictamente aplicada. [6]: 16 Como resultado, las "máquinas masculinas" reemplazaron las "telas femeninas" como identificadores de la tecnología moderna. cuando la ingeniería se consideraba una profesión masculina. [6]: 16 Debido a los movimientos políticos de los años 60 y principios de los 70, la ciencia y la tecnología se consideraban con fines de lucro industrial, gubernamental o militar, y estaban asociadas con la masculinidad, lo que resultaba en una falta de discurso feminista. [7] La ​​investigación feminista identificó la ausencia de presencia de las mujeres en las esferas tecnológica y científica, debido al uso de estereotipos sexuales en la educación y la discriminación sexual en la fuerza laboral, así como el desarrollo de la tecnología como una construcción masculina. [6] : 16 Ejemplos de tecnologías codificadas en masculino bajo estas categorías incluyen ARPANET, un precursor de Internet desarrollado por el Departamento de Defensa de los Estados Unidos, y el Proyecto Manhattan.
+Los movimientos de salud de las mujeres de los años setenta en los EE. UU. Y el Reino Unido impulsaron el surgimiento de la política feminista en torno al conocimiento científico. Durante los primeros estados del feminismo de la segunda ola, las campañas para mejorar el control de la natalidad y el derecho al aborto estuvieron a la vanguardia al desafiar la consolidación de las ciencias y tecnologías dominadas por los hombres a expensas de la salud de las mujeres. El acto de recuperar el conocimiento y el control sobre los cuerpos de las mujeres fue visto como un componente crucial para la liberación de las mujeres. [6]: 17
+
+La ciencia fue vista originalmente como una entidad alienígena opuesta a los intereses de las mujeres. Las ciencias y las tecnologías se desarrollaron bajo el concepto erróneo de que las necesidades de las mujeres eran universales e inferiores a las necesidades de los hombres, obligando a las mujeres a roles sexuales rígidos y determinados [6]: 18 Un cambio ocurrió en la década de 1980. Sandra Harding propuso "la cuestión femenina en la ciencia" plantear "la cuestión de la ciencia en el feminismo", afirmando que la ciencia está involucrada en proyectos que no solo son neutrales y objetivos, sino que están fuertemente vinculados a los intereses masculinos. [6]: 18 La conceptualización de ciencia y tecnología se amplía para reflejar las formas omnipresentes en que se encuentra la tecnología en la vida cotidiana, [7] ganando la atención de las feministas por la preocupación por las posiciones femeninas en la ciencia y las profesiones tecnológicas. En lugar de preguntar cómo pueden las mujeres ser tratadas mejor por la ciencia, las críticas feministas prefieren enfocarse en cómo una ciencia está profundamente involucrada en la masculinidad y los proyectos masculinos podrían usarse para la emancipación de las mujeres. [6]: 18
+La crítica feminista de hoy a menudo usa la antigua demonología de la tecnología como punto de partida para contar una historia de progreso del feminismo liberal al posmoderno. Según Judy Wajcman, tanto las feministas liberales como las marxistas fracasaron en el análisis de la ciencia y la tecnología, porque consideraban que la tecnología era neutral y no prestaban atención a la dimensión simbólica de la tecnociencia. [8]
+
+Tecnologías feministas y estudios de tecnociencia [editar]
+Los estudios de la tecnociencia feminista se han vinculado intrínsecamente con las prácticas del tecnofeminismo y el desarrollo de las tecnologías feministas en la lengua vernácula cultural y crítica. Los estudios de tecnociencia feminista exploran las implicaciones sociales y históricas codificadas de la ciencia y la tecnología en el desarrollo de la sociedad, incluida la forma en que las tecnologías construyen y construyen la identidad. El tecnofeminismo surgió a principios de la década de 1980, apoyándose en los diferentes movimientos feministas. Los estudiosos feministas volvieron a analizar la Revolución Científica y declararon que la ciencia resultante se basaba en la ideología masculina de explotar la Tierra y controlarla. Durante este tiempo, la naturaleza y la investigación científica se modelaron después de las relaciones misóginas con las mujeres. La feminidad se asoció con la naturaleza y se consideró como algo pasivo para ser objetivado. Esto contrastaba con la cultura, que se representaba objetivizando la masculinidad. Este análisis dependió del uso de imágenes de género para conceptualizar la naturaleza de la ideología tecnocientífica masculina. [6]: 85
+Judy Wajcman establece paralelismos entre la teoría de Judith Butler sobre la performatividad de género y la construcción de tecnología. Butler concibe el género como un acto performativo en oposición a una condición naturalizada en la que uno nace. [9] A través de un proceso fluctuante logrado en la interacción social diaria, la identidad de género se actúa y se construye a través de comportamientos relacionales: es un concepto fluido. A partir del trabajo de Butler y Donna Haraway, Amade M'charek analiza cómo los objetos, cuando se unen a otro objeto o significante, construyen identidad mediante el uso de la imaginación humana:
+Las diferencias y similitudes pueden ser estables o no, dependiendo del trabajo de mantenimiento que se realice
+en las relaciones que ayudan a producirlos. No son ni fundamentos ni cualidades que siempre están encarnadas ... Las diferencias son relacionales. No siempre se materializan en los cuerpos (en la carne, los genes, las hormonas, el cerebro o la piel). Más bien se materializan en las mismas relaciones que ayudan a ponerlas en práctica. [10]
+En esta teoría, la identidad no es el subproducto de los genes, sino la constante defensa de las relaciones de diferencia jerárquica. [10] Las diferencias en la identidad son el efecto de las interferencias, el desempeño y la promulgación y la ejecución. La tecnología también, tal como lo propuso Wajcman, es un producto de alianzas mutuas, no dadas objetivamente sino creadas colectivamente en un proceso de reiteración. Para este fin, la tecnología existe como una fuente y una concurrencia de relaciones de identidad.
+La tecnología y la ciencia occidentales están profundamente implicadas en la proyección masculina y la dominación patriarcal de las mujeres y la naturaleza. [6]: 85 Después del cambio de la teoría feminista para centrarse más en la tecnociencia, se hizo un llamado para que las nuevas tecnologías valores de las mujeres, en lugar de desarrollo tecnológico dominado por los hombres. Las diferencias entre las necesidades femeninas y masculinas fueron afirmadas por los movimientos feministas, llamando la atención sobre la exclusión de las mujeres atendidas por las tecnologías actuales. [6]: 22 Las tecnologías reproductivas, en particular, fueron influenciadas por este movimiento. Durante este tiempo, las tecnologías hogareñas, los nuevos medios y las nuevas tecnociencias fueron, en su mayor parte, desatendidas. [11]
+
+Tecnologías feministas [editar]
+Las tecnologías feministas son las que se forman a partir de las relaciones sociales feministas, pero las definiciones variadas y las capas de feminismo complican la definición. Deborah Johnson [12] propone cuatro candidatos para las tecnologías feministas:
+Tecnologías que son buenas para las mujeres
+Tecnologías que constituyen relaciones sociales con equidad de género
+Tecnologías que favorecen a las mujeres
+Tecnologías que constituyen relaciones sociales que son más equitativas que aquellas que fueron constituidas por una tecnología anterior o que aquellas que prevalecen en la sociedad en general
+El éxito de ciertas tecnologías, como la prueba de Papanicolaou para las pruebas de cáncer de cuello uterino, se basó en la feminización de los trabajos técnicos. La intervención de las mujeres fuera de la esfera tecnológica, como la de los miembros del movimiento de salud de la mujer y los activistas de salud pública también ayudaron en el desarrollo de la herramienta. [13] Sin embargo, otras tecnologías feministas, como el control de la natalidad, sirven como ejemplo de una tecnología feminista también conformada en parte por la masculinidad dominante.
+Las píldoras anticonceptivas orales combinadas se aprobaron por primera vez para su uso en los Estados Unidos en 1960, durante el tiempo del movimiento de liberación de la mujer. La píldora anticonceptiva ayudó a que más mujeres ingresaran a la fuerza de trabajo al brindarles la capacidad de controlar su propia fertilidad. Décadas antes de esto, activistas como Margaret Sanger y Katharine McCormick lucharon por los anticonceptivos femeninos, viéndolo como una necesidad para la emancipación de las mujeres. [14] Sin embargo, en la década de 1970 las feministas plantearon críticas sobre el control masculino de la industria médica y farmacéutica. El dominio masculino de estos campos llevó a desarrollar tecnologías como los anticonceptivos orales en torno a lo que los hombres consideraban universal, definiendo las características de las mujeres (que son su sexo y capacidades reproductivas). [15] Las píldoras anticonceptivas también tuvieron éxito en perpetrar y crear esta universalidad, moldeada por consideraciones morales del cuerpo natural, la duración del ciclo menstrual pudo diseñarse. [15]
+
+Bioética y capitalismo [editar]
+El desarrollo de las tecnologías reproductivas difumina las líneas entre la naturaleza y la tecnología, permitiendo la reconfiguración de la vida misma. A través de los avances de las tecnologías genéticas, el control del embarazo, el parto y la maternidad se ha vuelto cada vez más posible a través de medios intrusivos. Estos avances en la biotecnología están sirviendo para desarrollar la vida como una mercancía y profundizar la desigualdad monetaria, un vínculo hecho por teóricos feministas como Donna Haraway. [16] La ingeniería genética también genera preguntas en eugenesia, lo que lleva a un análisis feminista radical temprano para declarar e intentar reclamar la maternidad como fundamento de la identidad femenina. [6]: 79 La idea de una maternidad verde y natural fue popularizada por eco feministas que celebraron la identificación de las mujeres con la naturaleza y la vida natural. [6]: 79
+En cambio, Haraway elige adoptar la tecnología como feminista en lugar de volver a esta idea de feminidad naturalizada. Al abrazar la imagen del cyborg, una amalgama que no es ni humano / animal ni máquina, Haraway explora las ideas de la tecnociencia y el género, conceptualizando un espacio donde el género es una construcción arbitraria e innecesaria. [6]: 80
+La corporatización de la biología a través de la alteración de la naturaleza a través de la tecnología también es un tema explorado por Haraway. El OncoMouse es un ratón de laboratorio genéticamente modificado para transportar un gen específico que aumenta las probabilidades de que la criatura desarrolle cáncer. Hasta 2005, el conglomerado estadounidense DuPoint poseía la patente de OncoMouse, reconfigurando y relegando la vida a una mercancía. [6]: 89 Este desarrollo en ingeniería genética plantea preguntas sobre el tratamiento de animales de laboratorio, así como preguntas éticas sobre clase y raza. El aumento de las tasas de cáncer de mama en las mujeres negras se discute en el análisis eco-feminista de la modificación de los animales de laboratorio de la investigación del cáncer de mama a la discusión en un espacio éticamente ambiguo. Haraway, en particular, plantea la cuestión de si la modificación y el gasto de un producto vivo como OncoMouse es ético si conduce al desarrollo de una cura para el cáncer de mama. [6]: 91
+La reconfiguración de la vida en biotecnologías y la ingeniería genética permite establecer un precedente que conduce a las consecuencias culturales capitalistas. A través de estas tecnologías, la tecnociencia se naturaliza y también se vuelve cada vez más sujeta al proceso de mercantilización y acumulación de capital en las corporaciones capitalistas transnacionales. [6]: 89 Como se presenta en el análisis de las ciencias marxista y neomarxista, las biotecnologías permiten el concepto de mercancía para fetichizarse a medida que los genes se reifican para tener un valor monetario fuera de la naturaleza. Esto también desarrolla la vida y la naturaleza como una cosa para ser explotada por el capitalismo. [6]: 90
+
+
+
+
+
+
+Tecnociencia Feminista // El término tecnociencia, especialmente en relación con el campo de los estudios de la tecnociencia feminista, busca eliminar la distinción entre la investigación científica y el desarrollo con aplicaciones aplicadas de la tecnología, asumiendo que la ciencia está entrelazada con los intereses comunes de la sociedad.
+Como resultado, se sugiere que la ciencia se mantenga al mismo nivel de responsabilidad política y ética que las tecnologías que se desarrollan a partir de ella. 
+
+
+
+
+
+
+
+
+
+
