@@ -24,28 +24,6 @@ DATOS //
 + Enero de 2018 existen 2015 cajeros de BitCoin alrededor de 61 paises (el 80% esta en Estados Unidos)(BitconPlay)
 
 
-
-
-TERMINOLOGIA //
-
-Criptomoneda
-
-+ La cartera = El lugar donde almacenas tus BitCoin (disco duro), si lo pierdes, pierdes tus BitCoin
-+ Las transacciones de BitCoin son medidas en Satoshi Byte un Satoshi = 0,00000001 BitCoin
-+ Toda la información de las transacciones es transparente y puede observarse en Blochain.
-+ Las personas sin embargo son anonimas.
-+ No existen reembolosos, si te equivocas en la transacción no puedes reclamar.
-
-
-Cadena de Bloques
-
-
-Cultura de la Cadena de Bloques
-
-
-
-
-
 CONDUCTA //
 __________
 
@@ -54,7 +32,7 @@ Conducta Observada: Satoshi Nakamoto crea BitCoin con la idea de eliminar a los 
 Conducta observada: Las personas confian en la tecnología Blochain. Su transparencia y dificil manipulación.
 
 Conducta Observada: La mayora de personas que minan, especulan, comercian con BitCoin son hombres Según un estudio de 
-Deloitte se ha convertido una herramienta en la que las mujeres solo representan el 5% de las personas inversoras.
+Deloitte se ha convertido en una herramienta en la que las mujeres solo representan el 5% de las personas inversoras.
 
 Conducta Observada: Bitcoin se ha ido popularizando a través de foros y plataformas online mayoritariamente masculinas
 
@@ -72,20 +50,50 @@ En el sistema finaciero tradicional participan un vendedor, un comprador y un ba
 
 En el sistema financiero de las criptomonedas desaparece el banco central, y las transacciones se hacen directamente entre vendedor y comprador. Ademas cuantxs mas jugadores exista más segura es una transacción. ¿Cómo es posible eso? A través de la cadena de bloques.
 
-REFERENCIAS //
 
-+ https://www.forbes.com.mx/67-datos-sobre-el-bitcoin-que-probablemente-no-conocias/
 
 TEORIZACION //
 --------------
 
 
+TERMINOLOGIA //
+----------------
+
+Criptomoneda
+
++ Segura, anónima y trazable gracias a la tecnología blockchain
+
+BlockChain
+
+
+
+Trazabilidad y anonimato
+
++ Toda la información de las transacciones es transparente y puede observarse en Blochain.
++ El Monedero = El lugar donde almacenas tus BitCoin (disco duro), si lo pierdes, pierdes tus BitCoin
++ Debido a la trazabilidad de las criptomonedas se aconseja  usar los monederos donde almacenamos criptomonedas como si fueran de usar y tirar: los usamos una vez y nunca más. Para que no lleguen a la persona.
++ Las transacciones de BitCoin son medidas en Satoshi Byte un Satoshi = 0,00000001 BitCoin
++ Las personas sin embargo son anonimas.
++ No existen reembolosos, si te equivocas en la transacción no puedes reclamar.
+
+
+
+Mineros
+
+
+
+Cadena de Bloques
+
+
+Cultura de la Cadena de Bloques
 
 
 
 
+REFERENCIAS //
+--------------
 
-
++ https://www.forbes.com.mx/67-datos-sobre-el-bitcoin-que-probablemente-no-conocias/
 
 
 
