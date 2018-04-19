@@ -61,20 +61,24 @@ TERMINOLOGIA //
 
 Criptomoneda
 
-+ Segura, anónima y trazable gracias a la tecnología blockchain
+Permite realizar transacciones digitales sin tener que pasar por una banco.
 
-BlockChain
+BlockChain / Cadena de Bloques
 
-
+Blockchain permite registrar transacciones punto a punto en un libro mayor distribuido (ledger) en toda la red
+Blockchain es una tecnología con más aplicaciones que la criptomoneda.
 
 Trazabilidad y anonimato
 
 + Toda la información de las transacciones es transparente y puede observarse en Blochain.
-+ El Monedero = El lugar donde almacenas tus BitCoin (disco duro), si lo pierdes, pierdes tus BitCoin
++ Las transacciones no son anónimas, Bitcoin es basado en un libro público que rastrea cuánto se envió de una dirección a otra. Michael Perklin, experto en análisis forense digital, reveló a Binary District en una entrevista que Bitcoin es una de las monedas más rastreable del planeta debido principalmente a las herramientas anti-blanqueo de capitales para que los gobiernos puedan acceder a los datos fiscales de los usuarios de estas plataformas.
 + Debido a la trazabilidad de las criptomonedas se aconseja  usar los monederos donde almacenamos criptomonedas como si fueran de usar y tirar: los usamos una vez y nunca más. Para que no lleguen a la persona.
-+ Las transacciones de BitCoin son medidas en Satoshi Byte un Satoshi = 0,00000001 BitCoin
-+ Las personas sin embargo son anonimas.
-+ No existen reembolosos, si te equivocas en la transacción no puedes reclamar.
++Las empresas que intercambian dinero fiduciario por criptomonedas (conocidas como exchanges) están obligadas a mantener los datos personales y fiscales de sus usuarios por ley, lo que permite instantáneamente identificar cada dirección de un monedero con una persona física.
+
+Getión personal de la criptomoneda
+
++ El Monedero = El lugar donde almacenas tus BitCoin (disco duro), si lo pierdes, pierdes tus BitCoin
++ No existen reembolosos, si te equivocas en la transacción no puedes reclamar. A corto plazo. 
 
 
 
@@ -87,7 +91,8 @@ Cadena de Bloques
 
 Cultura de la Cadena de Bloques
 
-
+Valor
++ Las transacciones de BitCoin son medidas en Satoshi Byte un Satoshi = 0,00000001 BitCoin
 
 
 REFERENCIAS //
