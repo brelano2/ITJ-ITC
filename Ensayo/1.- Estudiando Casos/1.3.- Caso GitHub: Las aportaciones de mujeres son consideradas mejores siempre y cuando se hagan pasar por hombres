@@ -1,5 +1,122 @@
 .- Título
+==========================================
+GIT HUB // Conductas en el ámbito del software libre.
+
 .- Síntesis
+===========================================
+Según el estudio Diferencias de Género y Discriminación en el software libre de Terrell et al. de 2017 las contribuciones de las mujeres suelen ser más aceptadas que las de los hombre en GitHub siempre y cuando estas no sean identificadas como mujeres.
+
+Enlace a estudio: https://peerj.com/preprints/1733/
+
 .- Datos
+============================================
+
+Fuente: Encuesta Arjona-Reina y Dueas, 2014 en el ámbito del Sofware Libre
+
+.- Solo el 11,2 % de las mujeres son desarrolladoras de software libre
+
+.- El 70% de las personas que han respondido la encuesta son empleadas a tiempo completo o parcial, y de estas personas el 85% contribuye de alguna manera a desarrollar software frecuente u ocasionalmente en su trabajo principal.
+
+Fuente: Estudio Diferencias de Género y Discriminación en el sofware libre de Terrel et al. de 2017.
+
+.- Las mujeres que trabajan en los ámbitos de computación y matemáticas ganan el 88% de lo que ganan los hombres en los mismos ámbitos. (Graham y Smith, 2005)
+
+.- El índice de aceptación de aportaciones en GitHub de las mujeres tiene una media del 76,9% frente al de los hombres que tiene una media del 71,0%
+
+Fuente: Estudio Git Hub 
+
+.- ??? DATOS USUARIOS HOMBRES PAISES DESARROLLADOS
+
 .- Conductas identificadas
+============================================
+
+Fuente: Estudio de la comunidad Stack Overflow, Vasilescu, Capiluppi y Serebrenik, 2014
+
+.- En las comunidades poco saludables en lo que a conducta y genero se refiere las mujeres se desenganchan antes, a pesar de un desempeño importante.
+
+Fuente: Estudio Diferencias de Género y Discriminación en el software libre de Terrel et al. de 2017.
+
+.- A la comunidad le cuesta reconocer una aportación como valiosa cuando proviene de una mujer.
+.- Una contribución valiosa tiene más posibilidades de ser reconocida por la comunidad como tal cuando la aportación se percibe realizada por un hombre.
+.- Las mujeres que no explicitan su género  tienen más contribuciones valoradas positivamente  que las mujeres que lo explicitan.
+.- Hay mujeres que no explicitan su género.
+.- Las mujeres tienden a contribuir en menos proyectos que los  hombres.
+.- Los hombres tienden a contribuir en menor cantidad y en mayor número de proyectos.
+.- las mujeres hacen aportaciones que agregan y eliminan más líneas de código. Esto es consistente con los cambios más grandes que hacen las mujeres hacen en wikipedia.
+.- Los índices de aceptación de aportaciones de mujeres son mayores que los índices de aceptación de aportaciones de hombres en todos los lenguajes de programación excepto .m 
+
+
 .- Conclusiones
+=============================================
+
+GitHub es una plataforma de desarrollo colaborativo de software para alojar proyectos utilizando el sistema de control de versiones Git.(1)
+
+Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de computadora y coordinar el trabajo que varias personas realizan sobre archivos compartidos.(2)
+
+El Desarrollo colaborativo de software es un modelo de desarrollo de software cuyas bases son la disponibilidad pública del código y la comunicación vía Internet. Este modelo se hizo popular a raíz de su uso para el desarrollo de Linux en 1991.
+Este modelo es el dominante en el desarrollo de software libre porque comparten principios comunes y no se oculta ninguna fase de su desarrollo. (3)
+
+Esta relación la analiza Eric Raymond en su libro The Cathedral and the Bazaar, un libro que comparte la idea de que lo que ha hecho triunfar el desarrollo de Linux no es la tecnología si no la forma de organizarse y construir un entorno meritocrático en el que las personas que contribuyen se sientan reconocidas.
+
+Hasta aquí todo parece sencillo y claro.
+
+Sin embargo los datos que se recogen tanto en el estudio que estamos revisando actualmente así como en el estudio que la propia plataforma de GitHub ha desarrollado en torno a las personas que desarrollan software libre (4) el análisis es bastante interesante. Casi todas las personas que contribuyen en el ámbito del software libre son hombres de países desarrollados. 
+
+Tal vez, la frase es tan demoledora que nos hace comprender dos afirmaciones vinculadas a la tecnología que suelen repetirse constantemente:
+
+1.- Las mujeres no estamos capacitadas para la tecnología biológicamente (6)
+2.- A las mujeres no nos gusta la tecnología porque nuestras necesidades son universales e inferiores a las necesidades de los hombres (7)
+
+Sin embargo cuando empiezas a preguntarte porque son hombres de países desarrollados las personas que más aportan, comienzan a salir cuestiones no vinculadas ni a las capacidades ni a los intereses de las mujeres. Si no más bien en cómo se ha desarrollado un estatus que ha venido favoreciendo históricamente a los hombres blancos en el ámbito de la tecnología.
+
+Según el estudio Open Source Survey la gran mayoría de personas que contribuyen en el ámbito del Software Libre lo suelen hacer en proyectos vinculados a su trabajo. 
+
+Este dato también nos lleva a una pregunta lógica ¿Quien trabaja en el ámbito del desarrollo tecnológico y porqué?
+
+Existen múltiples iniciativas orientadas a que las mujeres busquen desarrollar carreras vinculadas con la tecnología, pero los datos de empleabilidad de mujeres en ese ámbito así como acciones aún más hostiles, nos llevan a pensar que es lógico que una joven no oriente su desarrollo personal y profesional hacia un entorno que la va a discriminar:
+
+.- "Only men need to apply". Este título resume cómo las empresas de reclutamiento laboral chinas favorecen a los hombres frente a las mujeres. Esta situación, habitual ya entre las filas de empresas tecnológicas de la talla de Alibaba, Baidu y Tencent ofrecen vacantes abiertas  exclusivamente a los hombres, según denuncia un informe publicado por Human Rights Watch.
+
+Ante esta realidad retomamos el estudio Diferencias de Género y Discriminación en el software libre de Terrell et al. de 2017 y su conclusión:
+
+las contribuciones de las mujeres suelen ser más aceptadas que las de los hombre en GitHub siempre y cuando estas no sean identificadas como mujeres.
+
+las conclusiones son evidentes, es comprensible que las mujeres ante esta realidad ocultan su género, es comprensible que los hombres que no ven a mujeres trabajando en tecnología piensen o que no les gusta o que no están capacitadas. ¿Tal vez por eso no las contratan?
+
+¿Estamos en un bucle casual o causal?
+
+Diferentes investigaciones consideran que de casualidad tiene poco. Por ejemplo en 2013 se realizó un experimento en el que se entregaron resúmenes de papers a 243 estudiantes para que los evaluaran. Previamente se habían cambiado los géneros de los papers de forma sistemática. Los estudiantes evaluaran mayoritariamente los de los hombres como de mayor calidad científica. Es decir los que realmente habían sido desarrollados por mujeres. Este experimento lo hicieron Knobloch-Westerwick, Glym y Huge.
+
+¿Cómo construimos la identidad de género? tal vez sea la pregunta que nos puede ayudar a obtener la respuesta que buscamos.
+
+
+
+
+
+(1) GitHub
+(2) Wikipedia / Git
+(3) Wikipedia / Desarrollo Colaborativo
+(4) Git Hub Open Source Survey // 2017  // https://arxiv.org/pdf/1706.02777.pdf // Cuestionario en castellano: https://github.com/github/open-source-survey/blob/master/translations/oss-survey-spanish.txt //
+Datos: https://zenodo.org/record/806811#.WuMEtFKZuJA
+(6)  Judy Wajcman, estudia este argumento que busca excluir a las mujeres del desarrollo tecnoogico en TechnoFeminism, 1st ed. (Cambridge: Polity, 2004). ISBN 0745630448
+(7) Jutta Webber, estudia este argumento que busca excluir a las mujeres del desarollo tecnocientifico en  (2006). From Science and Technology to Feminist Technoscience (PDF). Handbook of Gender and Women's Studies. Davis K, Evans M, Lorber J. p. 399. ISBN 9780761943907.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
